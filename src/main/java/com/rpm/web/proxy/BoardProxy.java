@@ -18,7 +18,7 @@ public class BoardProxy {
 				"0wi326", "0yr71f", "10srly");
 		Collections.shuffle(uids);
 		String uid = uids.get(0);
-		return uid;
+		return uid;   
 	}
 
 	public String comment() {
